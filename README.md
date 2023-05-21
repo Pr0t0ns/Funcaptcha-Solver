@@ -28,3 +28,5 @@ Please don't bully me for formatting I coded this on replit with a chromebook cu
 
 If you want to use a new proxy & Session you will need to call the class along with the solve function
 Example: Funcap(site_key="").solve() # As you can see im calling the class itself along with the function
+
+**50 Stars = New Update from me**
