@@ -1,5 +1,7 @@
 # Funcaptcha Audio Solver
 
+Contact @Pr0t0nlol on Telegram if you're interested in purchasing a funcaptcha API/solver
+
 Funcaptcha Solver Made by Pr0t0n
 
 **Features**
