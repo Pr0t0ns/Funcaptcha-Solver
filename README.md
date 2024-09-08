@@ -1,6 +1,6 @@
 # Funcaptcha Audio Solver
 
-Contact @Pr0t0nW on Telegram if you're interested in purchasing a funcaptcha API/solver
+Contact @Pr0t0ngoat on Telegram if you're interested in purchasing unflagged funcaptcha API/solver
 
 Funcaptcha Solver Made by Pr0t0n
 
