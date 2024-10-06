@@ -3,9 +3,9 @@
 
 
 
-Contact @Pr0t0ngoated on Telegram if you're interested in purchasing unflagged funcaptcha API/solver
+Contact @cornflakes on Telegram if you're interested in purchasing unflagged funcaptcha API/solver
 
-https://t.me/pr0t0ngoated
+https://t.me/cornflakes
 
 Funcaptcha Solver Made by Pr0t0n
 
