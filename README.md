@@ -3,7 +3,7 @@
 
 
 
-Contact @pr0t0ngo on Telegram if you're interested in purchasing unflagged funcaptcha API/solver
+Contact @pr0t0ngo on Telegram if you're looking to purchase funcaptcha solver with latest challenge support.
 
 https://t.me/pr0t0ngo
 
