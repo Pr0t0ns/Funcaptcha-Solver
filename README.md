@@ -3,9 +3,9 @@
 
 
 
-Contact @Pr0t0npro on Telegram if you're looking to purchase funcaptcha solver with latest challenge support.
+Contact @Pr0t0nwave on Telegram if you're looking to purchase funcaptcha solver with latest challenge support.
 
-https://t.me/Pr0t0npro
+https://t.me/Pr0t0nwave
 
 Funcaptcha Solver Made by Pr0t0n
 
