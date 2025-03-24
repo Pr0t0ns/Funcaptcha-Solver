@@ -5,7 +5,7 @@
 
 Feel free to contact @Pr0t0nwave on Telegram if you're looking to purchase a stable funcaptcha solution.
 
-Telegram - @Pr0t0nwave | https://t.me/Pr0t0nwave
+Telegram - @autographed | https://t.me/autographed
 
 Funcaptcha Solver Made by Pr0t0n
 
