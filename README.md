@@ -3,7 +3,7 @@
 
 
 
-Feel free to contact @Pr0t0nwave on Telegram if you're looking to purchase a stable funcaptcha solution.
+Feel free to contact @autographed on Telegram if you're looking to purchase a stable funcaptcha solution.
 
 Telegram - @autographed | https://t.me/autographed
 
