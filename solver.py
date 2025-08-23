@@ -7,7 +7,6 @@ from bda import get_bda as bda
 
 
 class Funcap:
-
   def __init__(self,
                host: str = 'https://client-demo.arkoselabs.com',
                site_key: str = "029EF0D3-41DE-03E1-6971-466539B47725", ua: str="Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36",
