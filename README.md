@@ -1,12 +1,5 @@
 # Funcaptcha Audio Solver
 
-
-
-
-Feel free to contact @autographed on Telegram if you're looking to purchase a stable funcaptcha solution.
-
-Telegram - @autographed | https://t.me/autographed
-
 Funcaptcha Solver Made by Pr0t0n
 
 **Features**
