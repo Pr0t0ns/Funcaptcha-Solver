@@ -5,7 +5,7 @@ Funcaptcha Solver Made by Pr0t0n
 **Features**
 - Proxy/Proxyless HTTP(s) Support
 - 100% Requests Based
-- Quick Solve time
+- Quick Solve time 
 - v1 funcap Audio solver
 - Custom Useragent option
 - Retries Option
